@@ -22,8 +22,9 @@
 - `risk_tiers.png`: Customer segmentation by churn probability
 - `requirements.txt`: Python dependencies
 
-**Model Performance**:
+**Model Performance:**
+
 | Model | Accuracy | Precision | Recall | F1-Score |
-| --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | XGBoost | 85% | 0.83 | 0.79 | 0.81 |
 | Random Forest | 82% | 0.80 | 0.76 | 0.78 |
